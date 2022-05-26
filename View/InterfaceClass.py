@@ -14,7 +14,7 @@ from kivy.uix.spinner import Spinner
 from kivy.lang import Builder
 from kivy.uix.screenmanager import Screen
 
-from controller import Controller
+from Controller.controller import Controller
 import os
 import math
 
