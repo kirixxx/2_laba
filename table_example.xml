@@ -44,7 +44,7 @@
 		<record>
 			<element Faculty="FCD"/>
 			<element Department="DFL"/>
-			<element FCs="Rassafonov K.V."/>
+			<element FCs="Lisov K.V."/>
 			<element Academic_title="Doctor of Sciences"/>
 			<element Academic_degree="Professor"/>
 			<element Work_experience="16"/>
@@ -75,6 +75,33 @@
 			<element Academic_title="Candidate of Sciences"/>
 			<element Academic_degree="Senior researcher"/>
 			<element Work_experience="8"/>
+			
+		</record>
+		<record>
+			<element Faculty="FITM"/>
+			<element Department="DCMaP"/>
+			<element FCs="Popuskov L.S."/>
+			<element Academic_title="Doctor of Sciences"/>
+			<element Academic_degree="Junior researcher"/>
+			<element Work_experience="10"/>
+			
+		</record>
+		<record>
+			<element Faculty="FITM"/>
+			<element Department="DH"/>
+			<element FCs="Soldatenkov P.S."/>
+			<element Academic_title="Doctor of Sciences"/>
+			<element Academic_degree="Docent"/>
+			<element Work_experience="10"/>
+			
+		</record>
+		<record>
+			<element Faculty="FITM"/>
+			<element Department="DH"/>
+			<element FCs="Sobranof T.S."/>
+			<element Academic_title="Doctor of Sciences"/>
+			<element Academic_degree="Senior researcher"/>
+			<element Work_experience="11"/>
 			
 		</record>
 	</records>

@@ -333,7 +333,7 @@ class Interface(App):
         
         table_search=GridLayout(cols=1,size_hint=(1,.8))
         self.table_search_select_title=Spinner(text="Select title",
-                                               values=('Faculty','Department','FCs','Academic title','Academic degree', 'Work experience'),
+                                               values=('Faculty','Department','FCs','Academic_title','Academic_degree', 'Work_experience'),
                                                font_size='15sp')
         self.table_search_select_title.size_hint=(.1,.45)
         self.table_search_select_title.sync_height=True
@@ -535,7 +535,7 @@ class Interface(App):
         
         table_remove=GridLayout(cols=1,size_hint=(1,.8))
         self.table_remove_select_title=Spinner(text="Select title",
-                                               values=('Faculty','Department','FCs','Academic title','Academic degree', 'Work experience'),
+                                               values=('Faculty','Department','FCs','Academic_title','Academic_degree', 'Work_experience'),
                                                font_size='15sp')
         self.table_remove_select_title.size_hint=(.1,.45)
         self.table_remove_select_title.sync_height=True
