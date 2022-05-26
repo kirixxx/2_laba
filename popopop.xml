@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<table title="popopop">
+	<columns>
+		<column title="Faculty" type_of_data="str"/>
+		<column title="Department" type_of_data="str"/>
+		<column title="FCs" type_of_data="str"/>
+		<column title="Academic_title" type_of_data="str"/>
+		<column title="Academic_degree" type_of_data="str"/>
+		<column title="Work_experience" type_of_data="int"/>
+	</columns>
+	<records>
+		<record>
+			<element Faculty="sdf"/>
+			<element Faculty="sdf"/>
+			<element Faculty="sdf"/>
+			<element Faculty="sdf"/>
+			<element Faculty="sdf"/>
+			<element Work_experience="3"/>
+		</record>
+		<record>
+			<element Faculty="a"/>
+			<element Department="b"/>
+			<element FCs="c"/>
+			<element Academic_title="d"/>
+			<element Academic_degree="e"/>
+			<element Work_experience="2"/>
+		</record>
+	</records>
+</table>
